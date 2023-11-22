@@ -1,3 +1,7 @@
+html {
+    color-scheme: light dark;
+}
+
 p {
     font-size: 16px;
 }
@@ -5,6 +9,8 @@ p {
 body {
     background-color: #011638;
     color: white;
+    font-family: system-ui;
+    margin-inline: auto;
 }
 
 main {
@@ -12,5 +18,5 @@ main {
 }
 
 .role {
-    text-align: center;
+    
 }
