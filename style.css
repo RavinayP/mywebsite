@@ -1,13 +1,8 @@
-p {
-    font-size: 16px;
-}
-
 body {
     background-color: #011638;
     color: white;
     font-family: system-ui;
     margin-inline: auto;
-    margin: 20px;
 }
 
 main {
@@ -15,5 +10,9 @@ main {
 }
 
 .role {
-    
+     text-align: center;
+}
+
+p {
+    font-size: 16px;
 }
